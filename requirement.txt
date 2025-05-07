@@ -1,4 +1,0 @@
-git+https://github.com/groq/groq-python.git
-streamlit
-python-dotenv
-
