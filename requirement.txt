@@ -1,4 +1,3 @@
---upgrade pip
 groq
 streamlit
 python-dotenv
